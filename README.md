@@ -54,6 +54,7 @@ We welcome contributions! If you'd like to add your insights, guides, or resourc
 ## 🌐 Connect with Clever Linker
 Explore more in-depth articles and resources:
 - Website: [Clever Linker](https://cleverlinker.com)
+- Facebook:[Clever Linker}(https://web.facebook.com/profile.php?id=61569017798479)
 ---
 
 ## 📜 License
